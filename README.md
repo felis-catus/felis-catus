@@ -5,5 +5,5 @@ lead programmer on [Pirates, Vikings, & Knights II](https://store.steampowered.c
 
 here's my cat
 -----
-![hi](https://github.com/felis-catus/felis-catus/blob/master/img/nopo.jpg?raw=true)
+![hi](https://github.com/felis-catus/felis-catus/blob/master/img/noposhook.jpg?raw=true)
 
